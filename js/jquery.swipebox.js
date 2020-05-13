@@ -12,9 +12,12 @@
 				initialIndexOnArray : 0,
 				closeBySwipe: true,
 				hideBarsOnMobile : false,
+				hideCloseButtonOnMobile : false,
 				hideBarsDelay : 3000,
 				videoMaxWidth : 1140,
 				vimeoColor : 'CCCCCC',
+				autoplayVideos: false,
+				loopAtEnd: true,
 				beforeOpen: null,
 				afterOpen: null,
 				afterClose: null
