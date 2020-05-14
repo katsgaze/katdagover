@@ -133,7 +133,7 @@ font-weight: 400;
 }
 
 .grid {
-	padding: 70px 20px 100px 20px;
+	padding: 60px 20px 40px 20px;
 	max-width: 1500px;
 	margin: 0 auto;
 	list-style: none;
@@ -152,7 +152,7 @@ font-weight: 400;
 }
 
 .about-text-grid {
-	padding: 0px 20px 100px 20px;
+	padding: 60px 20px 40px 20px;
 	max-width: 950px;
 	margin: 0 auto;
 	list-style: none;
@@ -171,7 +171,7 @@ font-weight: 400;
 }
 
 .about-photo-grid {
-	padding: 70px 20px 100px 20px;
+	padding: 60px 20px 40px 20px;
 	max-width: 900px;
 	margin: 0 auto;
 	list-style: none;
@@ -565,7 +565,7 @@ font-weight: 400;
 
 @media screen and (max-width: 757px) {
 	.-grid {
-		padding: 90px 10px 100px 10px;
+		padding: 40px 10px 50px 10px;
 	}
 	.grid li {
 		
@@ -576,7 +576,7 @@ font-weight: 400;
 
 @media screen and (max-width: 504px) {
 	.grid {
-		padding: 70px 10px 100px 10px;
+		padding: 40px 10px 50px 10px;
 	}
 	.grid li {
 		width: 100%;
@@ -591,7 +591,7 @@ font-weight: 400;
 
 @media screen and (max-width: 504px) {
 	.about-text-grid {
-		padding: 90px 10px 100px 10px;
+		padding: 40px 10px 50px 10px;
 	}
 	.about-text-grid li {
 		width: 100%;
